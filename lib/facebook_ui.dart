@@ -426,7 +426,7 @@ class facebookUI extends StatelessWidget {
                   decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(10),
                       image: DecorationImage(
-                          image: AssetImage("assets/icons/user.png"),
+                          image: AssetImage("assets/images/husam.png"),
                           fit: BoxFit.cover)),
                 ),
                 Container(
@@ -475,7 +475,7 @@ class facebookUI extends StatelessWidget {
                           decoration: BoxDecoration(
                               image: DecorationImage(
                                   image: AssetImage(
-                                      "assets/icons/like2.png"))),
+                                      "assets/icons/biglike.png"))),
                         ),
                         Text("Like")
                       ],
@@ -514,7 +514,7 @@ class facebookUI extends StatelessWidget {
                         decoration: BoxDecoration(
                             image: DecorationImage(
                                 image:
-                                    AssetImage("assets/icons/feed.png"))),
+                                    AssetImage("assets/icons/world.png"))),
                       ),
                       Container(
                         // alignment: Alignment.bottomLeft,
@@ -559,7 +559,7 @@ class facebookUI extends StatelessWidget {
                             borderRadius: BorderRadius.circular(100),
                             image: DecorationImage(
                                 image:
-                                    AssetImage("assets/icons/user.png"),
+                                    AssetImage("assets/images/husam.png"),
                                 fit: BoxFit.cover)),
                       ),
                     ],
